@@ -1,1 +1,1 @@
-import "./promenne/ukol_1.js"
+import "./promenna/ukol_1.js"
