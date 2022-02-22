@@ -1,3 +1,3 @@
-import "./promenna/ukol_2.js"
+import "./promenna/ukol_3.js"
 
 
