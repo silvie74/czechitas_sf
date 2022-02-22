@@ -3,3 +3,11 @@ let vekUzivatele = Number(prompt("Kolik je ti let?"));
 
 
 if (vekUzivatele < 18) {console.log("Vaše jméno je " + jmenoUzivatele + ", je Vám " + vekUzivatele + " let a tak musíte počkat ještě " + (18 - vekUzivatele) + "let, než budete moci řídit auto.")} else {console.log("Vaše jméno je " + jmenoUzivatele + ", je Vám " + vekUzivatele + " let a tak máte právo řídit auto.")}
+/*if (vek < 18) {
+
+  console.log(`Vaše jméno je +jmeno, je vám ${vek} let a tak musíte počkat ještě ${ 18 - vek } let, než budete moci řídit auto`);
+ } else {
+  
+  console.log(`Vaše jméno je ${jmeno}, je vám ${vek} let a tak máte právo řídit auto`);
+ }*/
+ 
